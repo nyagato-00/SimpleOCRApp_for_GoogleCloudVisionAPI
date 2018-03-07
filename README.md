@@ -1,0 +1,1 @@
+# SimpleOCRApp_for_GoogleCloudVisionAPI
